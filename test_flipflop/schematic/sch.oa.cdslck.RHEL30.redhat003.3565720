@@ -6,11 +6,11 @@
 LockStakeVersion               1.1
 LoginName                      Rojas_Vargas_I_2024_vlsi
 HostName                       redhat003
-ProcessIdentifier              2087759
-ProcessCreationTime_UTC        1715308215
-ProcessCreationTime_Readable   Thu 09 May 2024 08:30:15 PM CST CST
+ProcessIdentifier              3565720
+ProcessCreationTime_UTC        1715609787
+ProcessCreationTime_Readable   Mon 13 May 2024 08:16:27 AM CST CST
 AppIdentifier                  OA File System Design Manager
 OSType                         unix
 ReasonForPlacingEditLock       OpenAccess edit lock
-FilePathUsedToEditLock         /mnt/vol_NFS_rh003/Est_VLSI_I_2024/Rojas_Vargas_I_2024_vlsi/tutorial/basic_cells/flipflop_sch/schematic/sch.oa.cdslck
-TimeEditLocked                 Sat 11 May 2024 05:08:17 PM CST CST
+FilePathUsedToEditLock         /mnt/vol_NFS_rh003/Est_VLSI_I_2024/Rojas_Vargas_I_2024_vlsi/tutorial/basic_cells/test_flipflop/schematic/sch.oa.cdslck
+TimeEditLocked                 Mon 13 May 2024 12:07:20 PM CST CST
