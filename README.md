@@ -22,12 +22,22 @@ Con el reloj listo, se implemento el testbench que se muestra en la siguiente fi
 El esquemático utilizado para las simulaciones se muestra a continuación:
 
 ![lff](Imagenes/esq.png)
- Y los datos extraídos de la herramienta para la celda son los siguientes:
+ Y los datos extraídos de la herramienta para la celda DFFHDLLX0 son los siguientes:
  ![lff](Imagenes/tiempos.jpg)
 
+
+
+Para la toma de datos y parámetros de $t_{cd}$ y $t_{pcq}$, estableciendo una varibale "delay" en la fuente generadora de la señal D, se hizo uso de simulaciones paramétricas, fijando 10 variaciones para diferentes tiempos de "delay", dentro de la simulación, se empleó el uso de la opción "measure tool", la cual permite establecer una relación entre 2 de las opciones de señal disponibles en el conjunto de pruebas, donde se fija la señal de clock (CN) como referencia y la segunda señal se alterna entre D y Q, según el valor de delay deseado.
 Una vista general de uno de los conjuntos de simulaciones utilizado para la medición de parámetros se muestra en la siguiente figura:
-![lff](Imagenes/1.png)
+![](Imagenes/primera.png)
 
 ### Comparación de resultados
+
+
+
+
+
+
+
 
 
