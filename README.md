@@ -29,7 +29,7 @@ El esquemático utilizado para las simulaciones se muestra a continuación:
 
 Para la toma de datos y parámetros de $t_{cd}$ y $t_{pcq}$, estableciendo una varibale "delay" en la fuente generadora de la señal D, se hizo uso de simulaciones paramétricas, fijando 10 variaciones para diferentes tiempos de "delay", dentro de la simulación, se empleó el uso de la opción "measure tool", la cual permite establecer una relación entre 2 de las opciones de señal disponibles en el conjunto de pruebas, donde se fija la señal de clock (CN) como referencia y la segunda señal se alterna entre D y Q, según el valor de delay deseado.
 Una vista general de uno de los conjuntos de simulaciones utilizado para la medición de parámetros se muestra en la siguiente figura:
-![](Imagenes/primera.png)
+![s](Imagenes/aa.png)
 
 ### Comparación de resultados
 
